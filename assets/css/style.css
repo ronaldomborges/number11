@@ -58,7 +58,7 @@ form button:hover {
 }
 
 .senha-gerada {
-  font-size: 2em;
+  font-size: 1.4em;
   color: var(--primary-color);
   margin: 40px 0;
 }
